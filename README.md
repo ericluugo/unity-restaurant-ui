@@ -20,15 +20,15 @@ Proyecto desarrollado en Unity centrado en el diseño y la implementación de la
 
 ## Capturas
 ![Pantalla principal](images/pinicial.png)
-![Pantalla Comensales](images/pcomensale.png)
+![Pantalla Comensales](images/pcomensal.png)
 ![Pantalla Primeros](images/primeros.png)
 ![Pantalla Segundos](images/segundos.png)
 ![Pantalla Postres](images/postres.png)
 ![Pantalla Bebidas](images/bebidas.png)
 ![Pantalla Cafés](images/cafes.png)
 ![Pantalla Comensales con Cesta](images/cesta.png)
-![Pantalla Estado Pedido](images/estados.png)
-![Pantalla Estado Pedido](images/estados2.png)
+![Pantalla Estado Pedido](images/pestados.png)
+![Pantalla Estado Pedido](images/pestados2.png)
 ![Pantalla Métodos de Pago](images/pagos.png)
 ![Pantalla Tarjeta](images/tarjeta.png)
 
